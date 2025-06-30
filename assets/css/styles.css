@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --White: #ffffff;
+    --Platinum: #EF7F6D;
+    --Gray: #bec1bb;
+    --Blue-bell: #A491D2;
+    --Saop: #EF7F6D;
+    --Pale-Lavender: #D4DCFF;
+    --Dark-jungle: #1b1f21;
+    --Outer-Space: #444749;
+    --Old-silver: #828485;
+}
+
+body{
+    background-color: var(--blue-bell);
+}
